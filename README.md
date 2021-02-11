@@ -35,7 +35,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
 
   **Goal:** Create a collaborative filtering recommendation system that will recommend similar movies for the one user liked and movies based on his ratings.
 
-  **What's inside:** Research on collaborative filtering, 2 prototypes of recommender-functions based on cosine similarity and their evaluation
+  **What's inside:** Research on collaborative filtering, 2 prototypes of recommender-functions based on Pearson correlation and their evaluation
   
   **Result:** Evaluated prototype of recommender system
   
