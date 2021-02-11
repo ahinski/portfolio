@@ -39,7 +39,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
   
   **Result:** Evaluated prototype of recommender system
   
-### Disaster Tweets detection
+### Disaster Tweets Detection
 **Tags: NLP, feature-engineering, logistic-reg, naive-bayes, random-forest, SVM, ensembling**
 
 * Data: Dataset from [Kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
