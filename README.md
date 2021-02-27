@@ -52,7 +52,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
   
   **What's inside:**
   
-    * Simple data screening
+    * Data preparation
     
     * Feature engineering using NLP techniques
     
