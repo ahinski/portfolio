@@ -6,6 +6,13 @@ import os
 import math
 from pathlib import Path
 
+### Return lemmatized text
+
+def lemmatize_text(text):
+    w_tokenizer = nltk.tokenize.WhitespaceTokenizer()
+    lemmatizer = nltk.stem.WordNetLemmatizer()
+    return ' '.join([lemmatizer.lemmatize(w) for w in w_tokenizer.tokenize(text)])
+
 ### Returns an array from preprocessed tweet text for fitting in model
 
 def preprocess(text):
@@ -19,10 +26,6 @@ def preprocess(text):
     # removing punctuation
     text = re.sub(r'[^\w\s]','', text)
     # lemmatizing text
-    w_tokenizer = nltk.tokenize.WhitespaceTokenizer()
-    lemmatizer = nltk.stem.WordNetLemmatizer()
-    def lemmatize_text(text):
-        return ' '.join([lemmatizer.lemmatize(w) for w in w_tokenizer.tokenize(text)])
     text = lemmatize_text(text)
     # removing stopwords
     all_stopwords = set(nltk.corpus.stopwords.words('english'))
