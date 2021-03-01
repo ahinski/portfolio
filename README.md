@@ -58,6 +58,6 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
     
     * 4 models (LogReg, RF, NaiveBayes, SVM) and ensemble from probablistic models
     
-    * Model for analyzing single tweet
+    * Model for analyzing a single tweet
     
    **Result:** Top 35% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with F1 = 0.80570
