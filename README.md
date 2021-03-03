@@ -5,6 +5,30 @@ Repository containing data science projects for self-learning.
 More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
 
 ## Projects
+
+### Disaster Tweets Detection (+ simple deployment via Flask)
+**Tags: NLP, feature-engineering, logistic-reg, naive-bayes, random-forest, SVM, ensembling, flask, deployment**
+
+* Data: Dataset from [Kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
+
+* [Notebook with research and models building](https://github.com/ahinski/portfolio/blob/main/disaster_tweets.ipynb)
+
+* [Repo with deploy app](https://github.com/ahinski/TweetDetection)
+
+  **Goal:** Create a model that will predict whether tweet is about real disaster or not 
+  
+  **What's inside:**
+  
+    * Data preparation
+    
+    * Feature engineering using NLP techniques
+    
+    * 4 models (LogReg, RF, NaiveBayes, SVM) and ensemble from probablistic models
+    
+    * Model for analyzing a single tweet
+    
+   **Result:** Top 35% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with F1 = 0.80570
+
 ### Predict Sales
 **Tags: time-series, EDA, keras, LSTM, GRU, LightGBM, feature engineering, ensembling**
 
@@ -26,31 +50,8 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
     
    **Result:** Top 44% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with RMSE = 0.99982
 
-### Disaster Tweets Detection
-**Tags: NLP, feature-engineering, logistic-reg, naive-bayes, random-forest, SVM, ensembling**
-
-* Data: Dataset from [Kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
-
-* [Notebook with research and models building](https://github.com/ahinski/portfolio/blob/main/disaster_tweets.ipynb)
-
-* [Notebook with examples of single tweets detection](https://github.com/ahinski/portfolio/blob/main/disaster_tweets_examples.ipynb)
-
-  **Goal:** Create a model that will predict whether tweet is about real disaster or not 
-  
-  **What's inside:**
-  
-    * Data preparation
-    
-    * Feature engineering using NLP techniques
-    
-    * 4 models (LogReg, RF, NaiveBayes, SVM) and ensemble from probablistic models
-    
-    * Model for analyzing a single tweet
-    
-   **Result:** Top 35% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with F1 = 0.80570
-
 ### Movie Recommendation
-**Tags: collaborative-filtering, cosine-similarity, movieLens**
+**Tags: collaborative-filtering, Pearson-similarity, movieLens**
 
 * Data: MovieLens from [here](https://www.kaggle.com/grouplens/movielens-20m-dataset)
 
