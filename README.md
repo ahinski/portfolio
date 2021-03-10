@@ -7,7 +7,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
 ## Projects
 
 ### Disaster Tweets Detection (+ simple deployment via Flask)
-**Tags: NLP, feature-engineering, logistic-reg, naive-bayes, random-forest, SVM, ensembling, flask, deployment**
+**Tags: NLP, feature-engineering, logistic-regression, naive-bayes, random-forest, SVM, ensembling, flask, deployment**
 
 * Data: Dataset from [Kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
 
@@ -23,11 +23,11 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
     
     * Feature engineering using NLP techniques
     
-    * 4 models (LogReg, RF, NaiveBayes, SVM) and ensemble from probablistic models
+    * 4 models (LogReg, RF, NaiveBayes, SVM) and ensemble from LogReg and NB models
     
     * Model for analyzing a single tweet
     
-   **Result:** Top 35% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with F1 = 0.80570
+   **Result:** Top 35% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with F1 = 0.80937
 
 ### Predict Sales
 **Tags: time-series, EDA, keras, LSTM, GRU, LightGBM, feature engineering, ensembling**
