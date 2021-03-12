@@ -49,16 +49,3 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
     * Ensemble from 3 models
     
    **Result:** Top 44% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with RMSE = 0.99982
-
-### Movie Recommendation
-**Tags: collaborative-filtering, Pearson-similarity, movieLens**
-
-* Data: MovieLens from [here](https://www.kaggle.com/grouplens/movielens-20m-dataset)
-
-* [Notebook](https://github.com/ahinski/portfolio/blob/main/movie_recommendation.ipynb)
-
-  **Goal:** Create a collaborative filtering recommendation system that will recommend similar movies for the one user liked and movies based on his ratings.
-
-  **What's inside:** Research on collaborative filtering, 2 prototypes of recommender-functions based on Pearson correlation and their evaluation
-  
-  **Result:** Evaluated prototype of recommender system
