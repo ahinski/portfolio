@@ -11,7 +11,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
 
 * Data: Dataset from [Kaggle competition](https://www.kaggle.com/c/nlp-getting-started).
 
-* [Notebook with research and models building](https://github.com/ahinski/portfolio/blob/main/disaster_tweets.ipynb)
+* [Notebook with research and models building](https://nbviewer.jupyter.org/github/ahinski/portfolio/blob/main/disaster_tweets.ipynb)
 
 * [Repo with deploy app](https://github.com/ahinski/TweetDetection)
 
@@ -34,7 +34,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
 
 * Data: Predict Future Sales from [Kaggle competition](https://www.kaggle.com/c/competitive-data-science-predict-future-sales).
 
-* [Notebook](https://github.com/ahinski/portfolio/blob/main/predict_sales.ipynb)
+* [Notebook](https://nbviewer.jupyter.org/github/ahinski/portfolio/blob/main/predict_sales.ipynb)
 
   **Goal:** Predict sales in future month for shop and item pairs using data provided by 1C
   
@@ -55,7 +55,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
 
 * Data: Mobile game data from [Kaggle](https://www.kaggle.com/yufengsui/mobile-games-ab-testing)
 
-* [Notebook](https://github.com/ahinski/portfolio/blob/main/ab_test.ipynb)
+* [Notebook](https://nbviewer.jupyter.org/github/ahinski/portfolio/blob/main/ab_test.ipynb)
 
 **Goal:** Analyze a/b testing results. Check if changing level gate (at which a player whould be asked to pay to play) will increase retention rate.
 
