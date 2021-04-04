@@ -49,3 +49,14 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
     * Ensemble from 3 models
     
    **Result:** Top 44% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with RMSE = 0.99982
+   
+### A/B test analysis
+**Tags: a/b, visualization, retention rate, mobile game, chi-square**
+
+* Data: Mobile game data from [Kaggle](https://www.kaggle.com/yufengsui/mobile-games-ab-testing)
+
+* [Notebook](https://github.com/ahinski/portfolio/blob/main/ab_test.ipynb)
+
+**Goal:** Analyze a/b testing results. Check if changing level gate (at which a player whould be asked to pay to play) will increase retention rate.
+
+**Results:** It's statistically significant that changing level gates increased retention rate.
