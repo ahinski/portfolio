@@ -50,6 +50,27 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/den-ahinski/)
     
    **Result:** Top 44% on [Kaggle](https://www.kaggle.com/denisahinski/competitions) with RMSE = 0.99982
    
+### Marketing Analysis
+**Tags: EDA, preparation, cleaning, report, segment analysis, dashboard, tableau**   
+
+* Data: Marketing Data (retail shop campaigns) [Kaggle](https://www.kaggle.com/jackdaoud/marketing-data).
+
+* [Notebook, report, tableau dashboards](https://github.com/ahinski/marketing-analysis)
+  
+  **Goal:** Improve and strengthen skills in data analysis by analyzing campaigns and asking the questions from task on kaggle
+  
+  **What's inside:** Data analysis: 
+  
+    * Preparation and cleaning (outliers, duplciated, missed values)
+    
+    * Feature engineering (segmentations and other)
+    
+    * Analysis and visualization
+    
+    * Tableau dashboards
+
+    * Recommendations based on analysis
+  
 ### A/B test analysis
 **Tags: a/b, visualization, retention rate, mobile game, chi-square**
 
